@@ -1,2 +1,2 @@
-## CV Project 
-# sample cv project in only html
+# CV Project 
+ sample cv project in only html
